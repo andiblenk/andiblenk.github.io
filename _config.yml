@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &blenk_andreas
 facebook:
   username               :
   app_id                 :
@@ -87,33 +87,33 @@ author:
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.de/citations?user=qDB3rG4AAAAJ&hl=de&oi=ao"
-  email            :
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  #uri              :
+  #bitbucket        :
+  #codepen          :
+  #dribbble         :
+  #flickr           :
+  #facebook         :
+  #foursquare       :
   github           : "andiblenk"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
+  #google_plus      :
+  #keybase          :
+  #instagram        :
+  #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  #lastfm           :
+  #linkedin         :
+  orcid            : "https://orcid.org/0000-0002-2001-4050"
+  #pinterest        :
+  #soundcloud       :
+  #stackoverflow    : # http://stackoverflow.com/users/123456/username
+  #steam            :
+  #tumblr           :
+  twitter          : "blenk_andreas"
+  #vine             :
+  #weibo            :
+  #xing             :
+  #youtube          :
   wikipedia        :
 
 
