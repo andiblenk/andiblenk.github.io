@@ -30,3 +30,12 @@ As most problems of managing networking resources are computational hard (flow r
 there is a need for mechanisms that make it possible to improve algorithm efficiencies and solution qualities. 
 In my research, i want to focus on the application of machine learning to improve networking algorithms further: 
 e.g., networking algorithms produce valuable data of time which can be used to enhance their future executions, such as speeding up algorithms' runtimes.
+
+Network Virtualization (NV) & Software Defined Networking (SDN):
+------
+
+In software-defined networks, control plane and data plane are decoupled. Based on an open and standardized interface between both planes, network resources can be controlled, i.e., programmed, in a logically centralized manner. 
+With networks being completely programmable, SDN enables realization of new types of network control architectures, e.g., completely distributed, semi-distributed, or completely centralized architectures. 
+Besides, SDN makes it now possible to implement and to test these new architectures with real user traffic as it can isolate production and experimental network traffic on the same physical network. 
+In my research, I focus on the implementation of resource management mechanisms for virtualized SDN environments --- 
+i want to combine Network Virtualization and Software-Defined Networking to use an infrastructure as efficiently as possible given a particular use case.
