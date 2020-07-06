@@ -11,37 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D, Technical University of Munich, Munich, Germany, 2018
+* Diplom Technische Informatik, University of Wuerzburg, 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* 3/2019 - today: Senior Research Fellow, University of Vienna
+* 3/2018 - today: Senior Researcher and Associate Lecturer, Technical Univesity of Munich
+* 6/2012 - 5/2018: Research Assistant, Ph.D student, Technical University of Munich
+ 
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Best Demo Award at NetSys, Munich, Germany, 2019
+* Nominated for Best Paper Award IFIP Networking, Warsaw, Poland, 2019
+* Best Dissertation in Network and Service Management 2018, awarded by IEEE IM 2019 Dissertation Committee
+* Kurt Fischer Promotionspreis 2018, awarded by Department of Electrical and Computer Engineering, Technical University of Munich
+* Best-In Session Presentation Award, awarded by IEEE INFOCOM 2018 TPC
+* Student Travel Grant CNSM, 2016
+* Student Travel Grant IM, 2015
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Talks
 ======
   <ul>{% for post in site.talks %}
