@@ -26,6 +26,7 @@ Awards
 * Nominated for Best Paper Award IFIP Networking, Warsaw, Poland, 2019
 * Best Dissertation in Network and Service Management 2018, awarded by IEEE IM 2019 Dissertation Committee
 * Kurt Fischer Promotionspreis 2018, awarded by Department of Electrical and Computer Engineering, Technical University of Munich
+* Accepted for postdoc grant of the internationalization program at the Technical Faculty of IT and Design, Aalborg University, 2018
 * Best-In Session Presentation Award, awarded by IEEE INFOCOM 2018 TPC
 * Student Travel Grant CNSM, 2016
 * Student Travel Grant IM, 2015
