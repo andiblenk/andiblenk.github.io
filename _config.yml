@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr.-Ing. Andreas Blenk"
   avatar           : "andreasblenk.jpg"
-  bio              : "**Senior Researcher, Associate Lecturer** at **Technical University of Munich**, Munich, Germany & **Senior Research Fellow** at Faculty of Computer Science, **University of Vienna**, Austria"
+  bio              : "<b>Senior Researcher, Associate Lecturer</b> at <i>Technical University of Munich</i>, Munich, Germany & <b>Senior Research Fellow</b> at Faculty of Computer Science, <i>University of Vienna</i>, Austria"
   location         : "Munich/Germany & Vienna/Austria"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
