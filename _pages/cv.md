@@ -30,15 +30,3 @@ Awards
 * Best-In Session Presentation Award, awarded by IEEE INFOCOM 2018 TPC
 * Student Travel Grant CNSM, 2016
 * Student Travel Grant IM, 2015
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
