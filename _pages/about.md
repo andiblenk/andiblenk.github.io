@@ -15,3 +15,5 @@ I am currently working as a postdoctoral-researcher and associate lecturer at th
 Since January 2019, I am also proud to be a Senior Research Fellow at the Communication Technologies Group, Faculty of Computer Science, University of Vienna, lead by Prof. Stefan Schmid.
 My research is focused on flexible and predictable network virtualization, virtualizing software-defined networks, as well as data-driven networking, including architecture, system, and algorithm design.
 
+## Teaching
+Current teaching: [Analysis, Modeling, and Simulation of Communication Networks](https://www.ei.tum.de/lkn/lehre/vorlesungen/analysis-modeling-and-simulation-of-communication-networks/)
