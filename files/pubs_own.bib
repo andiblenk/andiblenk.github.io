@@ -1,5 +1,50 @@
 % Encoding: UTF-8
 
+% 2020
+
+@inproceedings{ ,
+	author = {Van Bemten, Amaury and Deric,Nemanja and Varasteh,Amir and Schmid,Stefan and Mas Machuca,Carmen and Blenk,Andreas and Kellerer,Wolfgang},
+	title = {Chameleon: Predictable Latency and High Utilization with Queue-Aware and Adaptive Source Routing},
+	booktitle = {16th International Conference on emerging Networking EXperiments and Technologies (CoNEXT)},
+	year = {2020},
+	month = {Dec},
+	doi = {10.1145/3386367.3432879},
+	location = {Barcelona, Spain},
+}
+
+@incollection{10.1007/978-3-030-44685-7_14,
+	author = {Tornatore, Massimo and Babarczi, Péter and Ayoub, Omran and Ferdousi, Sifat and Lourenco, Rafael and Zerwas, Johannes and Blenk, Andreas and Klügel, Markus and Kellerer, Wolfgang}, 
+	title = {Alert-Based Network Reconfiguration and Data Evacuation},
+	booktitle = {Computer Communications and Networks},
+	publisher = {Springer International Publishing}, 
+	year = {2020},
+	isbn = {97830304468409783030446857},
+	doi = {10.1007/978-3-030-44685-7_14},
+}
+
+@article{10.1145/3381996,
+	author = {Sieber, Christian and  Schwarzmann, Susanna and  Blenk, Andreas and  Zinner, Thomas and  Kellerer, Wolfgang},
+	title = {Scalable Application- and User-Aware Resource Allocation in Enterprise Networks Using End-Host Pacing},
+	journal = {ACM Trans. Model. Perform. Eval. Comput. Syst.},
+	year = {2020},
+	month = {Feb},
+	issn = {2376-3639},
+	doi = {10.1145/3381996},
+	abstract = {Scalable user- and application-aware resource allocation for heterogeneous applications sharing an enterprise network is still an unresolved problem. The main challenges are: (i) How to define user- and application-aware shares of resources? (ii) How to determine an allocation of shares of network resources to applications? (iii) How to allocate the shares per application in heterogeneous networks at scale? In this paper we propose solutions to the three challenges and introduce a system design for enterprise deployment. Defining the necessary resource shares per application is hard, as the intended use case, the user's environment, e.g., big or small display, and the user's preferences influence the resource demand. We tackle the challenge by associating application flows with utility functions from subjective user experience models, selected Key Performance Indicators, and measurements. The specific utility functions then enable a mapping of network resources in terms of throughput and latency budget to a common user-level utility scale. A sensible distribution of the resources is determined by formulating a multi-objective MILP to solve the throughput- and delay-aware embedding of each utility function in the network for a max-min fairness criteria. The allocation of resources in traditional networks with policing and scheduling cannot distinguish large numbers of classes and interacts badly with congestion control algorithms. We propose a resource allocation system design for enterprise networks based on Software-Defined Networking principles to achieve delay-constrained routing in the network and application pacing at the end-hosts. The system design is evaluated against best effort networks in a proof-of-concept set-up for scenarios with increasing number of parallel applications competing for the throughput of a constrained link. The competing applications belong to the five application classes web browsing, file download, remote terminal work, video streaming, and Voice-over-IP. The results show that the proposed methodology improves the minimum and total utility, minimizes packet loss and queuing delay at bottlenecks, establishes fairness in terms of utility between applications, and achieves predictable application performance at high link utilization.},
+}
+
+@article{10.1016/j.comcom.2020.09.014,
+	author = {Babarczi, Péter and Klügel, Markus and Martínez Alba, Alberto and He, Mu and Zerwas, Johannes and Kalmbach, Patrick and Blenk, Andreas and Kellerer, Wolfgang},
+	title = {A mathematical framework for measuring network flexibility},
+	journal = {Computer Communications},
+	year = {2020},
+	volume = {164},
+	pages = {13-24},
+	doi = {10.1016/j.comcom.2020.09.014},
+}
+
+% 2019
+
 @InProceedings{Blenk2017a,
   author    = {Blenk, Andreas and Kalmbach, Patrick and Zerwas, Johannes and Jarschel, Michael and Schmid, Stefan and Kellerer, Wolfgang},
   title     = {{NeuroViNE: A Neural Preprocessor for Your Virtual Network Embedding Algorithm}},
