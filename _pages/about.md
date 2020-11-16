@@ -17,3 +17,14 @@ My research is focused on flexible and predictable network virtualization, virtu
 
 ## Teaching
 Current teaching: [Analysis, Modeling, and Simulation of Communication Networks](https://www.ei.tum.de/lkn/lehre/vorlesungen/analysis-modeling-and-simulation-of-communication-networks/)
+
+## Certifications and Attended Seminars
+
+* Qualification Program at the Graduate Center Electrical Engineering and Computer Engineering
+* Effektives Führen von Studierenden (14 Stunden)
+* Scientific Writing (16 hours)
+* PhD Supervisor Training (two-day workshop)
+* Teaching in English 
+* Project Management for Researchers (two-day workshop)
+* Führend Wissen Schaffen (6 Stunden)
+* Serious Creativity - Develop New Solutions in a Systematic Way (two-day workshop, 14 hours)
