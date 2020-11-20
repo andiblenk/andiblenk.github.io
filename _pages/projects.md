@@ -27,3 +27,30 @@ The novelty of this project lies in the integration and application of Artificia
 ### Funding Agency
 - FWF - Der Wissenschaftsfonds
 - DFG - Deutsche Forschungsgemeinschaft
+
+## CELTIC/BMBF SENDATE Planets Pluto
+
+I was an active team member contributing research papers. Furthermore, I was responsible for reporting and partially managing financials.
+
+Link: [LKN Webpage](https://www.ei.tum.de/lkn/research/celticbmbf-sendate/)
+
+### Funding Agency
+BMBF - Bundesministerium für Bildung und Forschung
+
+## ERC Consolidator Grant: "Quantifying Flexibility in Communication Networks (FlexNets)"
+
+I am an active team member and helped in writing the proposal.
+
+Link: [LKN Webpage](https://www.ei.tum.de/lkn/research/erc-grant-flexnets/)
+
+### Funding Agency
+European Research Council (ERC)
+
+## Anwendungsorientierte, SDN-basierte Steuerungsarchitekturen für Kommunikationsnetze und ihre Leistungsbewertung
+
+I was an active team member and was mainly responsible in writing the research proposal for the TUM part.
+
+Link: [LKN Webpage](https://www.ei.tum.de/lkn/research/dfg-sdn-app-aware/)
+
+### Funding Agency
+DFG - Deutsche Forschungsgemeinschaft
