@@ -88,7 +88,7 @@ author:
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.de/citations?user=qDB3rG4AAAAJ&hl=de&oi=ao"
   email            : 
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   #uri              :
   #bitbucket        :
   #codepen          :
@@ -114,7 +114,7 @@ author:
   #weibo            :
   #xing             :
   #youtube          :
-  wikipedia        :
+  #wikipedia        :
   dblp              : "https://dblp.uni-trier.de/pers/hd/b/Blenk:Andreas"
 
 
