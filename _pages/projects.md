@@ -54,3 +54,12 @@ Link: [LKN Webpage](https://www.ei.tum.de/lkn/research/dfg-sdn-app-aware/)
 
 ### Funding Agency
 DFG - Deutsche Forschungsgemeinschaft
+
+## ZIM Projekt: Configuration Management in SDN
+
+This was a joint research project together with [Infosim](https://www.infosim.net/de/)
+I was an active team member in this project.
+
+### Funding Agency
+
+BMWi - Bundesministerium für Wirtschaft und Energie
