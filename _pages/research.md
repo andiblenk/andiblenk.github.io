@@ -17,7 +17,7 @@ However, this might result in more frequent executions of networking algorithms 
 As most problems of managing networking resources are computational hard (flow routing, facility location, or the embedding of whole networks), 
 there is a need for mechanisms that make it possible to improve algorithm efficiencies and solution qualities. 
 In my research, i want to focus on the application of machine learning to improve networking algorithms further: 
-e.g., networking algorithms produce valuable data of time which can be used to enhance their future executions, such as speeding up algorithms' runtimes.
+e.g., networking algorithms produce valuable data over time which can be used to enhance their future executions, such as speeding up algorithms' runtimes.
 
 Network Virtualization (NV) & Software Defined Networking (SDN):
 ------
