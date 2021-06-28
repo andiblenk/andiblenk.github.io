@@ -28,6 +28,29 @@ The novelty of this project lies in the integration and application of Artificia
 - FWF - Der Wissenschaftsfonds
 - DFG - Deutsche Forschungsgemeinschaft
 
+---
+
+## AI-NET PROTECT
+I am currently the project leader of this research project. I was fully responsible for the grant writing of the Chair of Communication Networks.
+
+Links:
+- [AI-NET PROTECT](https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/ai-net-protect)
+- [CELTIC-NEXT](https://www.celticnext.eu/project-ai-net-protect/)
+- [LKN AI-NET PROTECT](https://www.ei.tum.de/lkn/research/celticbmbf-ai-net-protect/)
+
+## Duration
+01/02/2021 - 31/01/2024
+
+## Team
+- Maximilian Stephan
+- Patrick Kraemer
+- Andreas Blenk
+
+### Funding Agency
+BMBF - Bundesministerium für Bildung und Forschung
+
+---
+
 ## CELTIC/BMBF SENDATE Planets Pluto
 
 I was an active team member contributing research papers. Furthermore, I was responsible for reporting and partially managing financials.
@@ -36,6 +59,8 @@ Link: [LKN Webpage](https://www.ei.tum.de/lkn/research/celticbmbf-sendate/)
 
 ### Funding Agency
 BMBF - Bundesministerium für Bildung und Forschung
+
+---
 
 ## ERC Consolidator Grant: "Quantifying Flexibility in Communication Networks (FlexNets)"
 
@@ -46,6 +71,8 @@ Link: [LKN Webpage](https://www.ei.tum.de/lkn/research/erc-grant-flexnets/)
 ### Funding Agency
 European Research Council (ERC)
 
+---
+
 ## Anwendungsorientierte, SDN-basierte Steuerungsarchitekturen für Kommunikationsnetze und ihre Leistungsbewertung
 
 I was an active team member and was mainly responsible in writing the research proposal for the TUM part.
@@ -54,6 +81,8 @@ Link: [LKN Webpage](https://www.ei.tum.de/lkn/research/dfg-sdn-app-aware/)
 
 ### Funding Agency
 DFG - Deutsche Forschungsgemeinschaft
+
+---
 
 ## ZIM Projekt: Configuration Management in SDN
 
