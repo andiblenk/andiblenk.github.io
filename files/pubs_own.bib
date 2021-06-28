@@ -1,5 +1,50 @@
 % Encoding: UTF-8
 
+% 2021
+
+@inproceedings{kraemer2021,
+	author = {Krämer, Patrick and  Diederich, Philip and  Krämer, Corinna and  Pries, Rastin and  Kellerer, Wolfgank and  Blenk, Andreas},
+	title = {sfc2cpu: Operating a Service Function Chain Platform with Neural Combinatorial Optimization},
+	booktitle = {IFIP/IEEE IM 2021},
+	year = {2021},
+	address = {Bordeaux, France},
+	abstract = {Service Function Chaining realized with a micro-
+    service based architecture results in an increased number of com-
+    putationally cheap Virtual Network Functions (VNFs). Pinning
+    cheap VNFs to dedicated CPU cores can waste resources since
+    not every VNF fully utilizes its core. Thus, cheap VNFs should
+    share CPU cores to improve resource utilization. sfc2cpu learns
+    efficient VNF to core assignments that increase throughput
+    and reduce latency compared to three baseline algorithms. To
+    optimize VNF assignments, sfc2cpu uses game theory com-
+    bined with Neural Combinatorial Optimization in a novel way.
+    Measurements in a real hardware testbed show that sfc2cpu
+    increases throughput by up to 36 % and reduces latency by up
+    to 59 % compared to Round Robin. We show that sfc2cpu
+    can be incrementally deployed and easily integrated into existing
+    infrastructures.
+  },
+}
+
+@article{ 10.1109/TNSM.2021.3059366,
+	author = {Deric, Nemanja and Varasteh, Amir and Van Bemten, Amaury and Blenk, Andreas and Kellerer, Wolfgang},
+	title = {Enabling SDN Hypervisor Provisioning through Accurate CPU Utilization Prediction},
+	journal = {IEEE Transactions on Network and Service Management},
+	year = {2021},
+  volume = {18},
+  number = {2},
+	pages = {1360-1374},
+	doi = {10.1109/TNSM.2021.3059366},
+}
+
+@inproceedings{ ,
+	author = {Martínez Alba, Alberto and Babarczi, Péter and Blenk, Andreas and He, Mu and Krämer, Patrick and Zerwas, Johannes and Kellerer, Wolfgang},
+	title = {Modeling the Cost of Flexibility in Communication Networks},
+	booktitle = {IEEE INFOCOM 2021 - IEEE Conference on Computer Communications},
+	year = {2021},
+	abstract = {Communication networks are evolving towards a more adaptive and reconfigurable nature due to the evergrowing demands they face. A framework for measuring network flexibility has been proposed recently, but the cost of rendering communication networks more flexible has not yet been mathematically modeled. As new technologies such as software-defined networking (SDN), network function virtualization (NFV), or network virtualization (NV) emerge to provide network flexibility, a way to estimate and compare the cost of different implementation options is needed. In this paper, we present a comprehensive model of the cost of a flexible network that takes into account its transient and stationary phases. This allows network researchers and operators to not only qualitatively argue about their new flexible network solutions, but also to analyze their cost for the first time in a quantitative way.},
+}
+
 % 2020
 
 @ARTICLE{9222270,
@@ -13,7 +58,7 @@
   doi={10.1109/TNSM.2020.3030589},
 }
 
-@inproceedings{ ,
+@inproceedings{chameleon2020,
 	author = {Van Bemten, Amaury and Deric,Nemanja and Varasteh,Amir and Schmid,Stefan and Mas Machuca,Carmen and Blenk,Andreas and Kellerer,Wolfgang},
 	title = {Chameleon: Predictable Latency and High Utilization with Queue-Aware and Adaptive Source Routing},
 	booktitle = {16th International Conference on emerging Networking EXperiments and Technologies (CoNEXT)},
