@@ -32,6 +32,7 @@ Student work experience
  
 Awards
 ======
+* Best Student Paper Award at IFIP/IEEE IM for the paper "sfc2cpu: Operating a Service Function Chain Platform with Neural Combinatorial Optimization", Bordeaux, France, Virtual Conference, 2021
 * Best Demo Award at NetSys, Munich, Germany, 2019
 * Nominated for Best Paper Award IFIP Networking, Warsaw, Poland, 2019
 * Best Dissertation in Network and Service Management 2018, awarded by IEEE IM 2019 Dissertation Committee
