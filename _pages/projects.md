@@ -7,6 +7,8 @@ author_profile: true
 
 In the following, I present the projects i am/was either leading or working/worked in as a member. During my life as a PhD, I have already gained experience in BMBF, 2020 Horizon, DFG projects etc. In particular I have gained experience in requesting funding or helping to write proposals such as BMBF, DFG, ERC 2020 Horizon projects.
 
+# Active Projects
+
 ## Adversarial Design Framework for Self-Driving Networks (ADVISE)
 I am the Full PI of this DFG/FWF-funded project on the German side. I was fully responsible for writing and requesting funding for this project. I finally received funding for a full PhD position for 3 years.
 
@@ -49,7 +51,9 @@ Links:
 ### Funding Agency
 BMBF - Bundesministerium für Bildung und Forschung
 
----
+--- 
+
+# Finished Projects
 
 ## CELTIC/BMBF SENDATE Planets Pluto
 
