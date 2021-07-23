@@ -7,8 +7,6 @@ author_profile: true
 
 # Lectures, Seminars, and Lab Courses
 
-The following list is not complete yet. Stay tuned ... ;)
-
 ## Lecture With Teaching Appointment
 
 * SS 2021 - Data Science and Machine Learning Basics Lab, German
@@ -33,7 +31,13 @@ The following list is not complete yet. Stay tuned ... ;)
 * WS2013 - Seminar on Communication Networks, German
 * WS2012 - Seminar on Topics in Communications Networking, English
 
-## Laboratory Courses (not complete yet)
+## Laboratory Courses
 
-TO BE FILLED
-
+* SS2018 - Software Defined Networking Lab, English
+* SS2017 - Software Defined Networking Lab, English
+* SS2016 - Communication Systems Design, Test, and Measurement, English
+* SS2015 - Communication Systems Design, Test, and Measurement, English
+* WS2015 - Laboratory Communication Networks (Praktikum Kommunikationsnetze), German
+* SS2014 - Laboratory Communication Networks (Praktikum Kommunikationsnetze), German
+* WS2013 - Laboratory Communication Networks (Praktikum Kommunikationsnetze), German
+* SS2013 - Laboratory Communication Networks (Praktikum Kommunikationsnetze), German
