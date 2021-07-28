@@ -2,23 +2,24 @@
 
 % 2021
 
-@article{papa2021,
-	author = {Papa, Arled and Durner, Raphael and Goshi, Endri and Goratti, Leonardo and Rasheed, Tinku and Blenk, Andreas and Kellerer Wolfgang},
-	title = {MARC: On Modeling and Analysis of Software-Defined Radio Access Network Controllers},
-	journal = {IEEE Transactions on Network and Service Management },
-	year = {2021},
-	doi = {10.1109/TNSM.2021.3095673},
+@Article{papa2021,
+  author   = {Papa, Arled and Durner, Raphael and Goshi, Endri and Goratti, Leonardo and Rasheed, Tinku and Blenk, Andreas and Kellerer Wolfgang},
+  journal  = {IEEE Transactions on Network and Service Management},
+  title    = {MARC: On Modeling and Analysis of Software-Defined Radio Access Network Controllers},
+  year     = {2021},
   abstract = {Network programmability also sneaked into the mobile world leading to the emergence of Software-Defined Radio Access Network (SD-RAN) architectures. Interestingly, while only a small number of prototype architectures exist for SD-RAN, their performance evaluations are unfortunately also limited. Recent evaluations are carried out for small network dimensions of up to 50 devices, while emerging 5G/6G networks envision numbers of devices beyond 5000. Although 5G/6G applications are more stringent with respect to latency guarantees, performance evaluations of such low scale remain questionable. To fill this void, this paper presents MARC: a novel benchmarking tool for SD-RAN architectures and their controllers. We use MARC to measure, analyze and identify performance implications for two state-of-the-art open source SD-RAN solutions: FlexRAN and 5G-EmPOWER. We perceive results for monitoring application scenarios considering fully centralized control. For this setting, our findings show that the proposed architectures with a single SD-RAN controller are not scalable and can even lead to unpredictable network operations. Using our tool and based on our insights, we provide and implement design guidelines for the internal working behavior of the existing controllers.},
+  doi      = {10.1109/TNSM.2021.3095673},
+  keywords = {habil},
 }
 
-@inproceedings{zerwas2021,
-	author = {Zerwas, Johannes and  Kellerer, Wolfgang and  Blenk, Andreas},
-	title = {What You Need to Know About Optical Circuit Reconfigurations in Datacenter Networks},
-	booktitle = {the 33nd International Teletraffic Congress (ITC 33)},
-	year = {2021},
-	address = {Avignon, France},
-	month = {Aug},
-	abstract = {Increasing demand for flexibility in datacenter networks has led
+@InProceedings{zerwas2021,
+  author    = {Zerwas, Johannes and Kellerer, Wolfgang and Blenk, Andreas},
+  booktitle = {the 33nd International Teletraffic Congress (ITC 33)},
+  title     = {What You Need to Know About Optical Circuit Reconfigurations in Datacenter Networks},
+  year      = {2021},
+  address   = {Avignon, France},
+  month     = {Aug},
+  abstract  = {Increasing demand for flexibility in datacenter networks has led
 researchers to propose various designs of adaptable topologies using
 optical circuit switching.
 However, reconfigurations interrupt data transmissions that can diminish
@@ -31,15 +32,16 @@ switches demonstrate that end-to-end reconfiguration delays indeed exhibit
 variability across devices and settings.
 The results suggest, however, that their behavior can be modeled, which
 opens new opportunities for scheduling algorithms.},
+  keywords  = {habil},
 }
 
-@inproceedings{kraemer2021,
-	author = {Krämer, Patrick and  Diederich, Philip and  Krämer, Corinna and  Pries, Rastin and  Kellerer, Wolfgank and  Blenk, Andreas},
-	title = {sfc2cpu: Operating a Service Function Chain Platform with Neural Combinatorial Optimization},
-	booktitle = {IFIP/IEEE IM 2021},
-	year = {2021},
-	address = {Bordeaux, France},
-	abstract = {Service Function Chaining realized with a micro-
+@InProceedings{kraemer2021,
+  author    = {Krämer, Patrick and Diederich, Philip and Krämer, Corinna and Pries, Rastin and Kellerer, Wolfgank and Blenk, Andreas},
+  booktitle = {IFIP/IEEE IM 2021},
+  title     = {sfc2cpu: Operating a Service Function Chain Platform with Neural Combinatorial Optimization},
+  year      = {2021},
+  address   = {Bordeaux, France},
+  abstract  = {Service Function Chaining realized with a micro-
     service based architecture results in an increased number of com-
     putationally cheap Virtual Network Functions (VNFs). Pinning
     cheap VNFs to dedicated CPU cores can waste resources since
@@ -53,70 +55,73 @@ opens new opportunities for scheduling algorithms.},
     increases throughput by up to 36 % and reduces latency by up
     to 59 % compared to Round Robin. We show that sfc2cpu
     can be incrementally deployed and easily integrated into existing
-    infrastructures.
-  },
+    infrastructures.},
 }
 
-@article{ 10.1109/TNSM.2021.3059366,
-	author = {Deric, Nemanja and Varasteh, Amir and Van Bemten, Amaury and Blenk, Andreas and Kellerer, Wolfgang},
-	title = {Enabling SDN Hypervisor Provisioning through Accurate CPU Utilization Prediction},
-	journal = {IEEE Transactions on Network and Service Management},
-	year = {2021},
-  volume = {18},
-  number = {2},
-	pages = {1360-1374},
-	doi = {10.1109/TNSM.2021.3059366},
+@Article{10.1109/TNSM.2021.3059366,
+  author   = {Deric, Nemanja and Varasteh, Amir and Van Bemten, Amaury and Blenk, Andreas and Kellerer, Wolfgang},
+  journal  = {IEEE Transactions on Network and Service Management},
+  title    = {Enabling SDN Hypervisor Provisioning through Accurate CPU Utilization Prediction},
+  year     = {2021},
+  number   = {2},
+  pages    = {1360-1374},
+  volume   = {18},
+  doi      = {10.1109/TNSM.2021.3059366},
+  keywords = {habil},
 }
 
-@inproceedings{martinezalba2021,
-	author = {Martínez Alba, Alberto and Babarczi, Péter and Blenk, Andreas and He, Mu and Krämer, Patrick and Zerwas, Johannes and Kellerer, Wolfgang},
-	title = {Modeling the Cost of Flexibility in Communication Networks},
-	booktitle = {IEEE INFOCOM 2021 - IEEE Conference on Computer Communications},
-	year = {2021},
-	abstract = {Communication networks are evolving towards a more adaptive and reconfigurable nature due to the evergrowing demands they face. A framework for measuring network flexibility has been proposed recently, but the cost of rendering communication networks more flexible has not yet been mathematically modeled. As new technologies such as software-defined networking (SDN), network function virtualization (NFV), or network virtualization (NV) emerge to provide network flexibility, a way to estimate and compare the cost of different implementation options is needed. In this paper, we present a comprehensive model of the cost of a flexible network that takes into account its transient and stationary phases. This allows network researchers and operators to not only qualitatively argue about their new flexible network solutions, but also to analyze their cost for the first time in a quantitative way.},
+@InProceedings{martinezalba2021,
+  author    = {Martínez Alba, Alberto and Babarczi, Péter and Blenk, Andreas and He, Mu and Krämer, Patrick and Zerwas, Johannes and Kellerer, Wolfgang},
+  booktitle = {IEEE INFOCOM 2021 - IEEE Conference on Computer Communications},
+  title     = {Modeling the Cost of Flexibility in Communication Networks},
+  year      = {2021},
+  abstract  = {Communication networks are evolving towards a more adaptive and reconfigurable nature due to the evergrowing demands they face. A framework for measuring network flexibility has been proposed recently, but the cost of rendering communication networks more flexible has not yet been mathematically modeled. As new technologies such as software-defined networking (SDN), network function virtualization (NFV), or network virtualization (NV) emerge to provide network flexibility, a way to estimate and compare the cost of different implementation options is needed. In this paper, we present a comprehensive model of the cost of a flexible network that takes into account its transient and stationary phases. This allows network researchers and operators to not only qualitatively argue about their new flexible network solutions, but also to analyze their cost for the first time in a quantitative way.},
+  keywords  = {habil},
 }
 
 % 2020
 
-@ARTICLE{9222270,
-  author = {Vizarreta, Petra and Sieber, Christian and Blenk, Andreas and Van Bemten, Amaury and Ramachandra, Vinod and Kellerer, Wolfgang and Mas-Machuca, Carmen and Trivedi, Kishor},
-  journal={IEEE Transactions on Network and Service Management}, 
-  title={ARES: A Framework for Management of Aging and Rejuvenation in Softwarized Networks}, 
-  year={2020},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/TNSM.2020.3030589},
+@Article{9222270,
+  author   = {Vizarreta, Petra and Sieber, Christian and Blenk, Andreas and Van Bemten, Amaury and Ramachandra, Vinod and Kellerer, Wolfgang and Mas-Machuca, Carmen and Trivedi, Kishor},
+  journal  = {IEEE Transactions on Network and Service Management},
+  title    = {ARES: A Framework for Management of Aging and Rejuvenation in Softwarized Networks},
+  year     = {2020},
+  pages    = {1-1},
+  doi      = {10.1109/TNSM.2020.3030589},
+  keywords = {habil},
 }
 
-@inproceedings{chameleon2020,
-	author = {Van Bemten, Amaury and Deric,Nemanja and Varasteh,Amir and Schmid,Stefan and Mas Machuca,Carmen and Blenk,Andreas and Kellerer,Wolfgang},
-	title = {Chameleon: Predictable Latency and High Utilization with Queue-Aware and Adaptive Source Routing},
-	booktitle = {16th International Conference on emerging Networking EXperiments and Technologies (CoNEXT)},
-	year = {2020},
-	month = {Dec},
-	doi = {10.1145/3386367.3432879},
-	location = {Barcelona, Spain},
+@InProceedings{chameleon2020,
+  author    = {Van Bemten, Amaury and Deric,Nemanja and Varasteh,Amir and Schmid,Stefan and Mas Machuca,Carmen and Blenk,Andreas and Kellerer,Wolfgang},
+  booktitle = {16th International Conference on emerging Networking EXperiments and Technologies (CoNEXT)},
+  title     = {Chameleon: Predictable Latency and High Utilization with Queue-Aware and Adaptive Source Routing},
+  year      = {2020},
+  month     = {Dec},
+  doi       = {10.1145/3386367.3432879},
+  keywords  = {habil},
+  location  = {Barcelona, Spain},
 }
 
-@incollection{10.1007/978-3-030-44685-7_14,
-	author = {Tornatore, Massimo and Babarczi, Péter and Ayoub, Omran and Ferdousi, Sifat and Lourenco, Rafael and Zerwas, Johannes and Blenk, Andreas and Klügel, Markus and Kellerer, Wolfgang}, 
-	title = {Alert-Based Network Reconfiguration and Data Evacuation},
-	booktitle = {Computer Communications and Networks},
-	publisher = {Springer International Publishing}, 
-	year = {2020},
-	isbn = {97830304468409783030446857},
-	doi = {10.1007/978-3-030-44685-7_14},
+@InCollection{10.1007/978-3-030-44685-7_14,
+  author    = {Tornatore, Massimo and Babarczi, Péter and Ayoub, Omran and Ferdousi, Sifat and Lourenco, Rafael and Zerwas, Johannes and Blenk, Andreas and Klügel, Markus and Kellerer, Wolfgang},
+  booktitle = {Computer Communications and Networks},
+  publisher = {Springer International Publishing},
+  title     = {Alert-Based Network Reconfiguration and Data Evacuation},
+  year      = {2020},
+  isbn      = {97830304468409783030446857},
+  doi       = {10.1007/978-3-030-44685-7_14},
+  keywords  = {habil},
 }
 
-@article{10.1016/j.comcom.2020.09.014,
-	author = {Babarczi, Péter and Klügel, Markus and Martínez Alba, Alberto and He, Mu and Zerwas, Johannes and Kalmbach, Patrick and Blenk, Andreas and Kellerer, Wolfgang},
-	title = {A mathematical framework for measuring network flexibility},
-	journal = {Computer Communications},
-	year = {2020},
-	volume = {164},
-	pages = {13-24},
-	doi = {10.1016/j.comcom.2020.09.014},
+@Article{10.1016/j.comcom.2020.09.014,
+  author   = {Babarczi, Péter and Klügel, Markus and Martínez Alba, Alberto and He, Mu and Zerwas, Johannes and Kalmbach, Patrick and Blenk, Andreas and Kellerer, Wolfgang},
+  journal  = {Computer Communications},
+  title    = {A mathematical framework for measuring network flexibility},
+  year     = {2020},
+  pages    = {13-24},
+  volume   = {164},
+  doi      = {10.1016/j.comcom.2020.09.014},
+  keywords = {habil},
 }
 
 % 2019
@@ -689,7 +694,7 @@ opens new opportunities for scheduling algorithms.},
   pages    = {1090-1104},
   volume   = {15},
   doi      = {10.1109/TNSM.2018.2848105},
-  keywords = {Software;Software reliability;Computer bugs;Data models;Measurement;Predictive models;Software defined networking;SDN controller;ONOS;OpenDaylight;open source software;software maturity;software reliability;software reliability growth models, ownJournal},
+  keywords = {Software;Software reliability;Computer bugs;Data models;Measurement;Predictive models;Software defined networking;SDN controller;ONOS;OpenDaylight;open source software;software maturity;software reliability;software reliability growth models, ownJournal, habil},
 }
 
 @InProceedings{He2018,
@@ -751,7 +756,7 @@ opens new opportunities for scheduling algorithms.},
   title     = {NetBOA: Self-Driving Network Benchmarking},
   year      = {2019},
   pages     = {1-7},
-  keywords  = {ownConference},
+  keywords  = {ownConference, habil},
 }
 
 @InProceedings{van2019loko,
@@ -759,7 +764,7 @@ opens new opportunities for scheduling algorithms.},
   booktitle = {Proc. 15th ACM International on Conference on Emerging Networking Experiments and Technologies (CoNEXT). ACM},
   title     = {Loko: Predictable latency in small networks},
   year      = {2019},
-  keywords  = {ownConference},
+  keywords  = {ownConference, habil},
 }
 
 @Article{Kellerer2019,
@@ -775,7 +780,7 @@ opens new opportunities for scheduling algorithms.},
   abstract   = {Communication networks are the key enabling technology for our digital society. In order to sustain their critical services in the future, communication networks need to flexibly accommodate new requirements and changing contexts due to emerging diverse applications. In contrast to traditional networking technologies, software-oriented networking concepts, such as software-defined networking (SDN) and network function virtualization (NFV), provide ample opportunities for highly flexible network operations, enabling fast and simple adaptation of network resources and flows. This paper identifies the opportunities and challenges of adaptable softwarized networks and introduces a conceptual framework for adaptations in softwarized networks. We first explain how softwarized networks contribute to network adaptability through the functional primitives observation, composition, and control. We review the wide range of options for fine-granular observations as well as fine-granular composition and control provided by SDN and NFV. The multitude of fine-granular “tuning knobs” in adaptable softwarized networks complicates the decision making, which is the main focus of this paper. We propose to enhance the functional primitives observation, composition, and control with data-driven decision making, e.g., machine learning modules, resulting in deep observation, composition, and control. The data-driven decision making modules can learn and react to changes in the environment, e.g., new flow demands, so as to support meaningful decision making for adaptation in softwarized networks. Finally, we make the case for employing the concept of empowerment to realize truly “self-driving” networks.},
   doi        = {10.1109/JPROC.2019.2895553},
   file       = {2019_Kellerer et al_Adaptable and Data-Driven Softwarized Networks.pdf:/home/andi/Nextcloud/Zotero/Proceedings of the IEEE/2019/2019_Kellerer et al_Adaptable and Data-Driven Softwarized Networks.pdf:application/pdf;IEEE Xplore Abstract Record:/home/andi/Zotero/storage/MHND4CWM/8653330.html:text/html},
-  keywords   = {ownJournal},
+  keywords   = {ownJournal, habil},
   shorttitle = {Adaptable and {Data}-{Driven} {Softwarized} {Networks}},
 }
 
@@ -787,7 +792,7 @@ opens new opportunities for scheduling algorithms.},
   month     = may,
   pages     = {1--9},
   publisher = {IFIP/IEEE},
-  keywords  = {ownConference},
+  keywords  = {ownConference, habil},
 }
 
 @Article{Zerwas2019b,
@@ -798,7 +803,7 @@ opens new opportunities for scheduling algorithms.},
   issn     = {1932-4537},
   pages    = {1-1},
   doi      = {10.1109/TNSM.2019.2927291},
-  keywords = {ownJournal},
+  keywords = {ownJournal, habil},
 }
 
 @InProceedings{kalmbach_noracle:_2019,
@@ -812,7 +817,7 @@ opens new opportunities for scheduling algorithms.},
   publisher = {ACM},
   abstract  = {This demo presents NOracle: a system using Stochastic Block Models (SBMs) to infer structural roles of hosts and communication patterns of services in networks. NOracle can be used with existing monitoring systems to analyze and visualize networks in an online manner or be used to analyze stored traces. Network operators can use SBMs to monitor and verify network operation, detect possible security issues and change-points. To showcase this, NOracle combines the production-grade network management solution StableNet with an SBM based anomaly detection and network visualization module. StableNet provides network flow statistics in real-time from actual devices. The SBM extracts roles and communication patterns live from the real-time data. The result can help to reason about communication behaviors, detect anomalous hosts and indicate changes in the large scale-structure of network communication.},
   file      = {Kalmbach et al. - NOracle Who is communicating with whom in my netw.pdf:/home/andi/Zotero/storage/MV7H6TP3/Kalmbach et al. - NOracle Who is communicating with whom in my netw.pdf:application/pdf},
-  keywords  = {ownConference},
+  keywords  = {ownConference, habil},
   language  = {en},
 }
 
@@ -824,7 +829,7 @@ opens new opportunities for scheduling algorithms.},
   number   = {3},
   pages    = {2600-2636},
   volume   = {21},
-  keywords = {ownJournal},
+  keywords = {ownJournal, habil},
 }
 
 @InProceedings{Blenk2019a,
@@ -833,7 +838,7 @@ opens new opportunities for scheduling algorithms.},
   title     = {Towards Virtualization of Software-Defined Networks: A Journey in Three Acts},
   year      = {2019},
   pages     = {677-682},
-  keywords  = {ownConference},
+  keywords  = {ownConference, habil},
 }
 
 @InProceedings{He2019a,
@@ -847,7 +852,7 @@ opens new opportunities for scheduling algorithms.},
   series    = {NEAT’19},
   doi       = {10.1145/3341558.3342202},
   isbn      = {9781450368766},
-  keywords  = {ownConference},
+  keywords  = {ownConference, habil},
   location  = {Beijing, China},
   numpages  = {7},
   url       = {https://doi.org/10.1145/3341558.3342202},
@@ -864,7 +869,7 @@ opens new opportunities for scheduling algorithms.},
   series    = {CoNEXT ’19},
   doi       = {10.1145/3360468.3366779},
   isbn      = {9781450370066},
-  keywords  = {ownConference},
+  keywords  = {ownConference, habil},
   location  = {Orlando, FL, USA},
   numpages  = {3},
   url       = {https://doi.org/10.1145/3360468.3366779},
@@ -876,7 +881,7 @@ opens new opportunities for scheduling algorithms.},
   title     = {Empirical Predictability Study of SDN Switches},
   year      = {2019},
   pages     = {1-13},
-  keywords  = {ownConference},
+  keywords  = {ownConference, habil},
 }
 
 @InProceedings{Deric2019,
@@ -885,7 +890,7 @@ opens new opportunities for scheduling algorithms.},
   title     = {Coupling VNF Orchestration and SDN Virtual Network Reconfiguration},
   year      = {2019},
   pages     = {1-3},
-  keywords  = {ownConference},
+  keywords  = {ownConference, habil},
 }
 
 @InProceedings{Kalmbach2019,
@@ -894,7 +899,7 @@ opens new opportunities for scheduling algorithms.},
   title     = {GPU Accelerated Planning and Placement of Edge Clouds},
   year      = {2019},
   pages     = {1-3},
-  keywords  = {ownConference},
+  keywords  = {ownConference, habil},
 }
 
 @InProceedings{Varasteh2019,
@@ -903,7 +908,7 @@ opens new opportunities for scheduling algorithms.},
   title     = {Toward Optimal Mobility-Aware VM Placement and Routing in Space-Air-Ground Integrated Networks},
   year      = {2019},
   pages     = {1-2},
-  keywords  = {ownConference},
+  keywords  = {ownConference, habil},
 }
 
 @InProceedings{Deric2018,
@@ -919,13 +924,13 @@ opens new opportunities for scheduling algorithms.},
   author    = {Sieber, Christian and Schwarzmann, Susanna and Blenk, Andreas and Zinner, Thomas and Kellerer, Wolfgang},
   journal   = {ACM Trans. Model. Perform. Eval. Comput. Syst.},
   title     = {Scalable Application- and User-Aware Resource Allocation in Enterprise Networks Using End-Host Pacing},
-  year	    = {2020},
+  year      = {2020},
   issn      = {2376-3639},
   number    = {ja},
   volume    = {0},
   address   = {New York, NY, USA},
   doi       = {10.1145/3381996},
-  keywords  = {ownJournal},
+  keywords  = {ownJournal, habil},
   numpages  = {1},
   publisher = {Association for Computing Machinery},
   url       = {https://doi.org/10.1145/3381996},
