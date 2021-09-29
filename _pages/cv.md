@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D, Technical University of Munich, Munich, Germany, 2018
+* Dr.-Ing., Technical University of Munich, Munich, Germany, 2018
 * Diplom Technische Informatik, Julius-Maximilians Universität, Würzburg, Germany, 2012
 * Abitur, Deutschhaus Gymnasium, Würzburg, 2005
 
