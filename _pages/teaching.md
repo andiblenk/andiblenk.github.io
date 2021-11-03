@@ -8,7 +8,7 @@ author_profile: true
 # Lectures, Seminars, and Lab Courses
 
 ## Lecture With Teaching Appointment
-
+* WS 2021 - Data Science Basics and Application
 * SS 2021 - Data Science and Machine Learning Basics Lab, German
 
 ## Lecture

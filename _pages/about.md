@@ -19,6 +19,11 @@ My research is focused on flexible and predictable network virtualization, virtu
 
 ## Teaching
 
+Lectures with full responsibility.
+
+### WS 2021/2022
+- [Data Science Grundlagen und Anwendung](https://www.ei.tum.de/lkn/lehre/praktika/data-science-und-grundlagen-zum-maschinellen-lernen/)
+
 ### SS 2021
 - [Praktikum Data Science und Grundlagen zum Maschinellen Lernen](https://www.ei.tum.de/lkn/lehre/praktika/data-science-und-grundlagen-zum-maschinellen-lernen/)
 

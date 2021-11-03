@@ -41,3 +41,15 @@ Awards
 * Best-In Session Presentation Award, awarded by IEEE INFOCOM 2018 TPC
 * Student Travel Grant CNSM, 2016
 * Student Travel Grant IM, 2015
+
+Technical Program Committees
+======
+* 2021 - IEEE International Conference on Network 	2021& IEEE International Conference on Network Softwarization (IEEE NetSoft), 28 June - 2 July, Virtual Conference
+* 2021 - IEEE Consumer Communications & Networking Conference (CCNC), 9 - 12 January, Virtual Conference
+* 2020 - Secure Programmable Network Infrastructure (SPIN 2020) workshop (co-located with ACM SIGCOMM 2020), 10 August, Virtual Conference.
+* 2020 - The Global Internet Symposium (GIS) - GIS 2020, 22 June, Virtual Conference
+* 2020 - IEEE Conference on Network Softwarization (IEEE NetSoft), 29 June - 3 July, Virtual Conference
+* 2020 - Technical Program Committee of 2. KuVS Fachgespräch "Network Softwarization", Eberhard Karls Universität Tübingen, 1 April - 2 April
+* 2019 - NetSys 2019, 18 March - 21 March 2019, Garching b. München, Germany
+* 2018 - CoNEXT 2018 Student Workshop (co-located with ACM CoNEXT 2018), 10. Sep., Herakion/Crete, Greece
+* 2016 - Fourth International IEEE Workshop on Quality of Experience Centric Management (co-located with the 2016 28th ITC), 16. Sep., University of Würzburg, Germany
