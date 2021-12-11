@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-In the following, I present the projects i am/was either leading or working/worked in as a member. During my life as a PhD, I have already gained experience in BMBF, 2020 Horizon, DFG projects etc. In particular I have gained experience in requesting funding or helping to write proposals such as BMBF, DFG, ERC 2020 Horizon projects.
+In the following, I present the projects i am/was either leading or working/worked in as a member. During my life as a PhD, I have already gained experience in BMBF, 2020 Horizon, DFG projects, Industry collaborations, etc. In particular I have gained experience in requesting funding or helping to write proposals such as BMBF, DFG, ERC 2020 Horizon, and Industry Collaboration projects.
 
 # Active Projects
 

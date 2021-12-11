@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Dr.-Ing., Technical University of Munich, Munich, Germany, 2018
-* Diplom Technische Informatik, Julius-Maximilians Universität, Würzburg, Germany, 2012
-* Abitur, Deutschhaus Gymnasium, Würzburg, 2005
+* 2021 - Mid-term evaluation Habilitation, Technical University of Munich, Munich, Germany
+* 2018 - Dr.-Ing., Technical University of Munich, Munich, Germany
+* 2012 - Diplom Technische Informatik, Julius-Maximilians Universität, Würzburg, Germany
+* 2005 - Abitur, Deutschhaus Gymnasium, Würzburg
 
 Work experience
 ======
@@ -32,18 +33,20 @@ Student work experience
  
 Awards
 ======
-* Best Student Paper Award at IFIP/IEEE IM for the paper "sfc2cpu: Operating a Service Function Chain Platform with Neural Combinatorial Optimization", Bordeaux, France, Virtual Conference, 2021
-* Best Demo Award at NetSys, Munich, Germany, 2019
-* Nominated for Best Paper Award IFIP Networking, Warsaw, Poland, 2019
-* Best Dissertation in Network and Service Management 2018, awarded by IEEE IM 2019 Dissertation Committee
-* Kurt Fischer Promotionspreis 2018, awarded by Department of Electrical and Computer Engineering, Technical University of Munich
-* Accepted for postdoc grant of the internationalization program at the Technical Faculty of IT and Design, Aalborg University, 2018
-* Best-In Session Presentation Award, awarded by IEEE INFOCOM 2018 TPC
-* Student Travel Grant CNSM, 2016
-* Student Travel Grant IM, 2015
+* 2021 - Best Student Paper Award at IFIP/IEEE IM for the paper "sfc2cpu: Operating a Service Function Chain Platform with Neural Combinatorial Optimization", Bordeaux, France, Virtual Conference
+* 2019 - Best Demo Award at NetSys, Munich, Germany
+* 2019 - Nominated for Best Paper Award IFIP Networking, Warsaw, Poland
+* 2019 - Best Dissertation in Network and Service Management 2018, awarded by IEEE IM 2019 Dissertation Committee
+* 2018 - Kurt Fischer Promotionspreis, awarded by Department of Electrical and Computer Engineering, Technical University of Munich
+* 2018 - Accepted for postdoc grant of the internationalization program at the Technical Faculty of IT and Design, Aalborg University, 2018
+* 2018 - Best-In Session Presentation Award, awarded by IEEE INFOCOM 2018 TPC
+* 2016 - Student Travel Grant CNSM
+* 2015 - Student Travel Grant IM
 
 Technical Program Committees
 ======
+* 2022 - IEEE International Conference on Network Softwarization (IEEE NetSoft), 27 June - 1 July, Milan, Italy
+* 2022 - IEEE/IFIP Network Operations and Management Symposium (NOMS), 24 - 29 April 2022, Budapest, Hungary
 * 2021 - IEEE International Conference on Network 	2021& IEEE International Conference on Network Softwarization (IEEE NetSoft), 28 June - 2 July, Virtual Conference
 * 2021 - IEEE Consumer Communications & Networking Conference (CCNC), 9 - 12 January, Virtual Conference
 * 2020 - Secure Programmable Network Infrastructure (SPIN 2020) workshop (co-located with ACM SIGCOMM 2020), 10 August, Virtual Conference.
