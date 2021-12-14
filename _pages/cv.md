@@ -47,7 +47,7 @@ Technical Program Committees
 ======
 * 2022 - IEEE International Conference on Network Softwarization (IEEE NetSoft), 27 June - 1 July, Milan, Italy
 * 2022 - IEEE/IFIP Network Operations and Management Symposium (NOMS), 24 - 29 April 2022, Budapest, Hungary
-* 2021 - IEEE International Conference on Network 	2021& IEEE International Conference on Network Softwarization (IEEE NetSoft), 28 June - 2 July, Virtual Conference
+* 2021 - IEEE International Conference on Network Softwarization (IEEE NetSoft), 28 June - 2 July, Virtual Conference
 * 2021 - IEEE Consumer Communications & Networking Conference (CCNC), 9 - 12 January, Virtual Conference
 * 2020 - Secure Programmable Network Infrastructure (SPIN 2020) workshop (co-located with ACM SIGCOMM 2020), 10 August, Virtual Conference.
 * 2020 - The Global Internet Symposium (GIS) - GIS 2020, 22 June, Virtual Conference
