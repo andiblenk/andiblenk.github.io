@@ -53,6 +53,46 @@ BMBF - Bundesministerium für Bildung und Forschung
 
 --- 
 
+## Design and Evaluation of Flexible Programmable Hybrid Real-time Networks with Hard and Soft Real-time Guarantees (SDN-APP Phase2)
+I am the Full PI of this DFG-funded project. I was fully responsible for writing and requesting funding for this project. I finally received funding for a 50% PhD position for 3 years.
+
+### Summary
+Software Defined Networking (SDN) marks a fundamental paradigm shift that allows integrating new concepts such as application-aware resource management in todays communication networks. Such concepts, in particular, improve the Quality-of-Experience (QoE) of user-oriented multimedia applications. The feasibility of such concept was demonstrated in Phase 1 of DFG SDN-App. The Phase 1 architecture investigated the realization of application-aware management and control on two fronts: taking network information on the application control plane into account improves the use of network resources; considering application demands on the network control plane rigorously improves application performance and QoE.
+
+Phase 2 of DFG SDN-App consequently extends the considered scenario and architecture: besides taking care of end user-oriented multimedia applications and QoE (Phase 1), it newly integrates time-critical (industrial) services and their changing requirements  cases where end users do not play a dominant role. In particular, Phase 2 focuses on hard as well as soft real-time requirements of time-critical services with dynamically changing demands like smart manufacturing to control devices. Hard real-time constraints require, e.g., a maximum end-to-delay and maximum delay jitter; soft real-time constraints manifest in stochastic guarantees, e.g., on packet loss and delay. Existing approaches suffer from unused, hence wasted network resources or the complexity to address dynamically changing demands and network reconfigurations. Real-time constraints are in trade-off to flexibility.
+
+Applying the methodologies from analysis, simulation, to measurement and testbed implementations, the goal of Phase 2 is to realize a hybrid real-time network that provides guarantees to hard and soft real-time applications, while at the same time hosting multimedia applications. In particular, concepts such as Time Sensitive Networking (TSN) and network programmability (P4) are investigated and analyzed jointly. To evaluate the overall architecture, not only traditional measures are applied, but also new measures such as network flexibility are investigated to quantify the benefits of hybrid real-time networks under changing demands with time and cost constraints. The overall target are guidelines for selected use cases (industrial, data center, wide area network), that combine the results of Phase 1 and 2.
+
+An extension of Phase 1 towards industrial and real-time networks is important to sustain the dynamically and faster growing demands of todays applications. A flexible architecture that provides guarantees in face of reconfigurations will allow realizing hybrid networks that can host all application types simultaneously. With the ability to program and use standard hardware for all kind of network scenarios, network operators will save operation and capital expenditures in the future.
+
+### Team
+- Wolfgang Kellerer, TUM, PI
+- Tobias Hossfeld, Juilius Maximilians Universität Würzburg
+- Andreas Blenk, TUM, PI
+
+### Duration
+11/2021 - 10/2024
+
+### Funding Agency
+- DFG - Deutsche Forschungsgemeinschaft
+
+---
+
+## BMBF Research Hub 6G-life
+
+More details: 
+- [6G-life@LKN](https://www.ei.tum.de/lkn/research/6g-research-hub-6g-life/)
+- [6g-life page](https://6g-life.de/)
+
+### Duration
+08/2021 - 08/2025
+
+### Funding Agency
+BMBF
+
+
+---
+
 # Finished Projects
 
 ## CELTIC/BMBF SENDATE Planets Pluto
