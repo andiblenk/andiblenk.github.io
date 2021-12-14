@@ -19,8 +19,8 @@ Education
 Work experience
 ======
 * 3/2019 - today: Senior Research Fellow, University of Vienna
-* 3/2018 - today: Senior Researcher and Associate Lecturer, Technical University of Munich
-* 6/2012 - 5/2018: Research Assistant, Ph.D student, Technical University of Munich
+* 4/2018 - today: Senior Researcher and Associate Lecturer, Technical University of Munich
+* 6/2012 - 3/2018: Research Assistant, Ph.D student, Technical University of Munich
 
 Student work experience
 ======
