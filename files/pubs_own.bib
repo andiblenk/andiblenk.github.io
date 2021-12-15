@@ -2,6 +2,68 @@
 
 % 2021
 
+@inproceedings{GeorgeP4Update2021,
+	author = {Zhou, Zikai and He, Mu and Kellerer, Wolfgang and Blenk, Andreas and Foerster, Klaus-Tycho},
+	author+an =	{4=highlight},
+	title = {P4Update},
+	booktitle = {Proc. ACM CoNEXT},
+	year = {2021},
+	publisher = {ACM},
+		address = {Munich, Germany (Virtual Conference)},
+	keywords  = {habil, ownConference},
+	doi = {10.1145/3485983.3494845},
+}
+
+@inproceedings{ZerwasExREC2021,
+	author = {Zerwas, Johannes and  Avin, Chen and  Schmid, Stefan and  Blenk, Andreas},
+		author+an =	{4=highlight},
+	title = {ExReC: Experimental Framework for Reconfigurable Networks Based on Off-the-Shelf Hardware},
+	booktitle = {Symposium on Architectures for Networking and Communications Systems (ANCS ’21)},
+	year = {2021},
+	publisher = {ACM},
+	address = {Layfette, IN, USA},
+	keywords  = {habil, ownConference},
+	month = {Dec},
+}
+
+@INPROCEEDINGS{ancs21sidechannel,
+	author = {Amir Sabzi and Liron Schiff and Kashyap Thimmaraju and Andreas Blenk and Stefan Schmid},
+	title = {Macchiato: Importing Cache Side Channels to SDNs},
+	booktitle = {Symposium on Architectures for Networking and Communications Systems (ANCS ’21)},
+	year = {2021},
+	publisher = {ACM},
+	address = {Layfette, IN, USA},
+	keywords  = {habil, ownConference},
+	month = {Dec},
+} 
+
+@article{GrinerCerberus2021 ,
+	author = {Griner, Chen and  Zerwas, Johannes and  Blenk, Andreas and  Ghobadi, Manya and  Schmid, Stefan and  Avin, Chen},
+	author+an =	{3=highlight},
+	title = {Cerberus: The Power of Choices in Datacenter Topology Design (A Throughput Perspective)},
+	journal = {Proc. of the ACM on Measurement and Analysis of Computing Systems},
+	year = {2021},
+	volume = {Vol. 5},
+	month = {Dec},
+	number = {No. 3},
+	doi = {10.1145/3491050},
+	keywords  = {habil, ownJournal},
+	language = {en},
+}
+
+@ARTICLE{ZerwasCDNISP2021,
+	author={Zerwas, Johannes and Poese, Ingmar and Schmid, Stefan and Blenk, Andreas},
+    author+an =	{4=highlight},
+	journal={IEEE Transactions on Network and Service Management}, 
+	title={On the Benefits of Joint Optimization of Reconfigurable CDN-ISP Infrastructure}, 
+	year={2021},
+	volume={},
+	number={},
+	pages={1-1},
+keywords  = {habil, ownJournal},
+	doi={10.1109/TNSM.2021.3119134}
+}
+
 
 
 @inproceedings{Zerwas2021b,
@@ -12,15 +74,6 @@
 	address = {Izmir, Turkey},
 	month = {Oct},
 }
-
-@article{Zerwas2021a,
-	author = {Zerwas, Johannes and  Poese, Ingmar and  Schmid, Stefan and  Blenk, Andreas},
-	title = {On the Benefits of Joint Optimization of Reconfigurable CDN-ISP Infrastructure},
-	journal = {IEEE Transactions on Network and Service Management},
-  doi = {10.1109/TNSM.2021.3119134},
-	year = {2021},
-}
-
 @incollection{BlenkDesigningAlgorithms,
 	author = {Blenk, Andreas and  Krämer, Patrick and  Zerwas, Johannes and  Schmid, Stefan}, 
 	title = {Designing Algorithms for Data-Driven Network Management and Control: State-of-the-Art and Challenges},
@@ -30,7 +83,6 @@
 	year = {2021},
 	isbn = {9781119675501},
 	doi = {https://doi.org/10.1002/9781119675525.ch8},
-	abstract = {At the heart of many computer network management and control tasks often lie complex optimization problems. Research over the last decades has been in pursuit for ever more accurate and faster algorithms solving such problems. More recently, we have also witnessed a significant interest in applying machine learning and artificial intelligence to tackle problems, e.g. related to routing, functions placement, or network design. In this book chapter, we review an approach that is motivated by the observation that most existing human-designed network management and control algorithms overlook a simple yet powerful optimization opportunity: many algorithms are executed repeatedly and hence with each execution, generate data: the (problem, solution)-pairs. For example, finding a path between two specific nodes describes the problem, whereas a path-finding algorithm provides the solution, namely the path. In this chapter, we provide an overview of approaches that use machine learning (ML) and artificial intelligence (AI) to learn from (problem, solution)-pairs to improve actually network algorithms. We discuss the applicability for different use cases and identify challenges within those use cases as well as limitations. We review recent trends from the ML and AI research community, and how they might be applied to specific network problems. Based on this, we present future research directions geared toward data-driven algorithms design for network management and control tasks.},
 }
 
 @Article{papa2021,
@@ -43,27 +95,16 @@
   keywords = {habil},
 }
 
+
 @InProceedings{zerwas2021,
   author    = {Zerwas, Johannes and Kellerer, Wolfgang and Blenk, Andreas},
-  booktitle = {the 33nd International Teletraffic Congress (ITC 33)},
+  booktitle = {Proc. ITC},
   title     = {What You Need to Know About Optical Circuit Reconfigurations in Datacenter Networks},
   year      = {2021},
   address   = {Avignon, France},
-  month     = {Aug},
-  abstract  = {Increasing demand for flexibility in datacenter networks has led
-researchers to propose various designs of adaptable topologies using
-optical circuit switching.
-However, reconfigurations interrupt data transmissions that can diminish
-the benefit of adapting physical networks.
-The state-of-the-art lacks detailed models of end-to-end reconfiguration
-characteristics of involved networking components like end-host NICs and
-switches.
-The measurements of five commercially available programmable NICs and
-switches demonstrate that end-to-end reconfiguration delays indeed exhibit
-variability across devices and settings.
-The results suggest, however, that their behavior can be modeled, which
-opens new opportunities for scheduling algorithms.},
-  keywords  = {habil},
+  month     = aug,
+  pages     = {1 -- 9},
+ keywords  = {habil},
 }
 
 @InProceedings{kraemer2021,
@@ -72,21 +113,9 @@ opens new opportunities for scheduling algorithms.},
   title     = {sfc2cpu: Operating a Service Function Chain Platform with Neural Combinatorial Optimization},
   year      = {2021},
   address   = {Bordeaux, France},
-  abstract  = {Service Function Chaining realized with a micro-
-    service based architecture results in an increased number of com-
-    putationally cheap Virtual Network Functions (VNFs). Pinning
-    cheap VNFs to dedicated CPU cores can waste resources since
-    not every VNF fully utilizes its core. Thus, cheap VNFs should
-    share CPU cores to improve resource utilization. sfc2cpu learns
-    efficient VNF to core assignments that increase throughput
-    and reduce latency compared to three baseline algorithms. To
-    optimize VNF assignments, sfc2cpu uses game theory com-
-    bined with Neural Combinatorial Optimization in a novel way.
-    Measurements in a real hardware testbed show that sfc2cpu
-    increases throughput by up to 36 % and reduces latency by up
-    to 59 % compared to Round Robin. We show that sfc2cpu
-    can be incrementally deployed and easily integrated into existing
-    infrastructures.},
+  month     = may,
+  pages     = {1 96-- 205},
+  publisher = {IEEE},
 }
 
 @Article{10.1109/TNSM.2021.3059366,
@@ -94,18 +123,24 @@ opens new opportunities for scheduling algorithms.},
   journal  = {IEEE Transactions on Network and Service Management},
   title    = {Enabling SDN Hypervisor Provisioning through Accurate CPU Utilization Prediction},
   year     = {2021},
+  month    = feb,
   number   = {2},
   pages    = {1360-1374},
   volume   = {18},
   doi      = {10.1109/TNSM.2021.3059366},
   keywords = {habil},
+  publisher = {IEEE},
 }
 
 @InProceedings{martinezalba2021,
   author    = {Martínez Alba, Alberto and Babarczi, Péter and Blenk, Andreas and He, Mu and Krämer, Patrick and Zerwas, Johannes and Kellerer, Wolfgang},
-  booktitle = {IEEE INFOCOM 2021 - IEEE Conference on Computer Communications},
+  booktitle = {Proc. IEEE INFOCOM},
   title     = {Modeling the Cost of Flexibility in Communication Networks},
   year      = {2021},
+  address   = {Vancouver, BC, Canada},
+  month     = may,
+  pages     = {1 -- 10},
+  publisher = {IEEE},
   abstract  = {Communication networks are evolving towards a more adaptive and reconfigurable nature due to the evergrowing demands they face. A framework for measuring network flexibility has been proposed recently, but the cost of rendering communication networks more flexible has not yet been mathematically modeled. As new technologies such as software-defined networking (SDN), network function virtualization (NFV), or network virtualization (NV) emerge to provide network flexibility, a way to estimate and compare the cost of different implementation options is needed. In this paper, we present a comprehensive model of the cost of a flexible network that takes into account its transient and stationary phases. This allows network researchers and operators to not only qualitatively argue about their new flexible network solutions, but also to analyze their cost for the first time in a quantitative way.},
   keywords  = {habil},
 }
@@ -117,17 +152,23 @@ opens new opportunities for scheduling algorithms.},
   journal  = {IEEE Transactions on Network and Service Management},
   title    = {ARES: A Framework for Management of Aging and Rejuvenation in Softwarized Networks},
   year     = {2020},
-  pages    = {1-1},
-  doi      = {10.1109/TNSM.2020.3030589},
-  keywords = {habil},
+   month     = oct,
+  number    = {2},
+  pages     = {1389-1400},
+  volume    = {18},
+  doi       = {10.1109/TNSM.2020.3030589},
+  keywords  = {habil, ownJournal},
+  publisher = {IEEE},
 }
 
 @InProceedings{chameleon2020,
   author    = {Van Bemten, Amaury and Deric,Nemanja and Varasteh,Amir and Schmid,Stefan and Mas Machuca,Carmen and Blenk,Andreas and Kellerer,Wolfgang},
-  booktitle = {16th International Conference on emerging Networking EXperiments and Technologies (CoNEXT)},
+  booktitle = {Proc. ACM CoNEXT},
   title     = {Chameleon: Predictable Latency and High Utilization with Queue-Aware and Adaptive Source Routing},
   year      = {2020},
-  month     = {Dec},
+  month     = dec,
+  pages     = {451–465},
+  publisher = {ACM},
   doi       = {10.1145/3386367.3432879},
   keywords  = {habil},
   location  = {Barcelona, Spain},
@@ -140,6 +181,8 @@ opens new opportunities for scheduling algorithms.},
   title     = {Alert-Based Network Reconfiguration and Data Evacuation},
   year      = {2020},
   isbn      = {97830304468409783030446857},
+  month     = jul,
+  pages     = {353--377},
   doi       = {10.1007/978-3-030-44685-7_14},
   keywords  = {habil},
 }
@@ -149,6 +192,7 @@ opens new opportunities for scheduling algorithms.},
   journal  = {Computer Communications},
   title    = {A mathematical framework for measuring network flexibility},
   year     = {2020},
+  month    = dec,
   pages    = {13-24},
   volume   = {164},
   doi      = {10.1016/j.comcom.2020.09.014},
@@ -164,6 +208,8 @@ opens new opportunities for scheduling algorithms.},
   year      = {2018},
   pages     = {1-9},
   month     = apr,
+  pages     = {1-9},
+  publisher = {IEEE},
   keywords  = {ownConference},
   location  = {Honolulu, HI, USA},
 }
@@ -176,6 +222,7 @@ opens new opportunities for scheduling algorithms.},
   author    = {Basta, Arsany and Blenk, Andreas and Hoffmann, Marco and Morper, Hans Jochen and Hoffmann, Klaus and Kellerer, Wolfgang},
   address   = {Cham},
   isbn      = {978-3-319-16292-8},
+  month     = feb,
   abstract  = {The introduction of Network Functions Virtualization (NFV) and Software Defined Networking (SDN) to mobile networks enables operators to control and dimension their network resources with higher granularity and on a more fine-grained time scale. This dynamic operation allows operators to cope with the rapid growth of traffic and user demands, in addition to reducing costs. In this paper, we model and analyze a realization of the mobile core network as virtualized software instances running in datacenters (DC) and SDN transport network elements (NE), with respect to time-varying traffic demands. It is our objective to determine the datacenters placement that achieves the minimum transport network load considering time-varying traffic and under a data-plane delay budget. A second objective is to achieve power savings, considering the variation of traffic over time, by using the available datacenter resources or by acquiring additional resources.},
   booktitle = {Mobile Networks and Management: 6th International Conference, MONAMI 2014, W\"urzburg, Germany, September 22-26, 2014, Revised Selected Papers},
   doi       = {10.1007/978-3-319-16292-8_5},
@@ -204,11 +251,13 @@ opens new opportunities for scheduling algorithms.},
 
 @InProceedings{Basta2015a,
   author    = {Basta, Arsany and Blenk, Andreas and Lai, Yu-Ting and Kellerer, Wolfgang},
+  booktitle = {Proc. IFIP/IEEE IM},
   title     = {{HyperFlex: Demonstrating control-plane isolation for virtual software-defined networks}},
   booktitle = {Proc. IFIP/IEEE Int. Symp. IM Netw.},
   year      = {2015},
   pages     = {1163-1164},
   month     = may,
+  pages     = {1163-1164},
   publisher = {IEEE},
   doi       = {10.1109/INM.2015.7140460},
   file      = {/home/andi/Documents/Mendeley Desktop/2015/Basta et al/2015 IFIPIEEE International Symposium on Integrated Network Management (IM)/2015 - Basta et al. - HyperFlex Demonstrating control-plane isolation for virtual software-defined networks.pdf},
