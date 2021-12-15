@@ -33,6 +33,7 @@ Student work experience
  
 Awards
 ======
+* 2021 - Best Paper Award at ACM/IEEE Symposium on Architectures for Networking and Communication Systems for the paper "Macchiato: Importing Cache Side Channels to SDNs", Layfette, IN, USA
 * 2021 - Best Student Paper Award at IFIP/IEEE IM for the paper "sfc2cpu: Operating a Service Function Chain Platform with Neural Combinatorial Optimization", Bordeaux, France, Virtual Conference
 * 2019 - Best Demo Award at NetSys, Munich, Germany
 * 2019 - Nominated for Best Paper Award IFIP Networking, Warsaw, Poland
