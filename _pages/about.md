@@ -34,6 +34,7 @@ Lectures with full responsibility.
 
 ## Certifications and Attended Seminars
 
+* Virtuelle Meetings professionell und interaktiv gestalten (two-day workshop)
 * Qualification Program at the Graduate Center Electrical Engineering and Computer Engineering
 * Effektives Führen von Studierenden (14 Stunden)
 * Scientific Writing (16 hours)
@@ -66,3 +67,7 @@ Lectures with full responsibility.
 * o'zapft is: Tap Your Network Algorithm's Big Data!. Blenk, A.; Kalmbach, P.; Schmid, S.; and Kellerer, W. In Proc. ACM SIGCOMM Workshop Big-DAMA, of Big-DAMA '17, pages 19-24, August 2017. ACM
 * Control Plane Latency With SDN Network Hypervisors: The Cost of Virtualization. Blenk, A.; Basta, A.; Zerwas, J.; Reisslein, M.; and Kellerer, W. IEEE Trans. on Netw. and Serv. Manage., 13(3): 366-380. September 2016.
 * Survey on Network Virtualization Hypervisors for Software Defined Networking. Blenk, A.; Basta, A.; Reisslein, M.; and Kellerer, W. IEEE Commun. Surveys & Tutorials, 18(1): 655-685. 2016.
+
+## Selected Community Work
+* Chair, NetSys 2021 PhD Forum [Link](https://netsys2021.org/phd-forum/), Sep. 16, 2021, L\"ubeck, Germany (online)
+* Chair, Machine Learning in Networking (MaLeNe), NetSys Workshop, Sep. 13, 2021, L\"ubeck, Germany (online)
