@@ -9,18 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+Work experience
+======
+* 4/2022 - today: Researcher at Siemens AG, T CED INW-DE, Munich
+* 4/2018 - 04/2022: Senior Researcher and Associate Lecturer, Technical University of Munich
+* 3/2019 - 1/2022: Senior Research Fellow, University of Vienna
+* 6/2012 - 3/2018: Research Assistant, Ph.D student, Technical University of Munich
+
 Education
 ======
 * 2021 - Mid-term evaluation Habilitation, Technical University of Munich, Munich, Germany
 * 2018 - Dr.-Ing., Technical University of Munich, Munich, Germany
 * 2012 - Diplom Technische Informatik, Julius-Maximilians Universität, Würzburg, Germany
 * 2005 - Abitur, Deutschhaus Gymnasium, Würzburg
-
-Work experience
-======
-* 4/2018 - today: Senior Researcher and Associate Lecturer, Technical University of Munich
-* 3/2019 - 1/2022: Senior Research Fellow, University of Vienna
-* 6/2012 - 3/2018: Research Assistant, Ph.D student, Technical University of Munich
 
 Student work experience
 ======
