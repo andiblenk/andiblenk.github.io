@@ -5,12 +5,12 @@ permalink: /projects/
 author_profile: true
 ---
 
-In the following, I present the projects i am/was either leading or working/worked in as a member. During my life as a PhD, I have already gained experience in BMBF, 2020 Horizon, DFG projects, Industry collaborations, etc. In particular I have gained experience in requesting funding or helping to write proposals such as BMBF, DFG, ERC 2020 Horizon, and Industry Collaboration projects.
+# Finished Research Projects
 
-# Active Projects
+In the following, I present the projects I was either leading or worked in as a member. During my life as a PhD, I have already gained experience in BMBF, 2020 Horizon, DFG projects, Industry collaborations, etc. In particular I have gained experience in requesting funding or helping to write proposals such as BMBF, DFG, ERC 2020 Horizon, and Industry Collaboration projects.
 
 ## Adversarial Design Framework for Self-Driving Networks (ADVISE)
-I am the Full PI of this DFG/FWF-funded project on the German side. I was fully responsible for writing and requesting funding for this project. I finally received funding for a full PhD position for 3 years.
+I was the Full PI of this DFG/FWF-funded project on the German side. I was fully responsible for writing and requesting funding for this project. I finally received funding for a full PhD position for 3 years.
 
 ### Summary
 Inspired by self-driving cars, the networking community is currently engaged in designing more automated and ''self-driving'' communication systems, aiming to overcome the cumbersome and error-prone manual approach to manage and operate networks. Ideally, such self-driving networks also allow to exploit the increasing flexibilities introduced by emerging new Internet technologies, such as software-defined and virtualized communication technologies. With these technologies, the networks allow to meet the stringent performance requirements of new networks (e.g., 5G and 6G) and workloads (e.g., low-latency tele-operation or high-bandwidth machine-to-machine type communication), by adapting to the context and demand.
@@ -33,7 +33,7 @@ The novelty of this project lies in the integration and application of Artificia
 ---
 
 ## AI-NET PROTECT
-I am currently the project leader of this research project. I was fully responsible for the grant writing of the Chair of Communication Networks.
+I was the project leader of this research project. I was fully responsible for the grant writing of the Chair of Communication Networks.
 
 Links:
 - [AI-NET PROTECT](https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/ai-net-protect)
@@ -54,7 +54,7 @@ BMBF - Bundesministerium für Bildung und Forschung
 --- 
 
 ## Design and Evaluation of Flexible Programmable Hybrid Real-time Networks with Hard and Soft Real-time Guarantees (SDN-APP Phase2)
-I am the Full PI of this DFG-funded project. I was fully responsible for writing and requesting funding for this project. I finally received funding for a 50% PhD position for 3 years.
+I was the Full PI of this DFG-funded project. I was fully responsible for writing and requesting funding for this project. I finally received funding for a 50% PhD position for 3 years.
 
 ### Summary
 Software Defined Networking (SDN) marks a fundamental paradigm shift that allows integrating new concepts such as application-aware resource management in todays communication networks. Such concepts, in particular, improve the Quality-of-Experience (QoE) of user-oriented multimedia applications. The feasibility of such concept was demonstrated in Phase 1 of DFG SDN-App. The Phase 1 architecture investigated the realization of application-aware management and control on two fronts: taking network information on the application control plane into account improves the use of network resources; considering application demands on the network control plane rigorously improves application performance and QoE.
@@ -90,10 +90,7 @@ More details:
 ### Funding Agency
 BMBF
 
-
 ---
-
-# Finished Projects
 
 ## CELTIC/BMBF SENDATE Planets Pluto
 

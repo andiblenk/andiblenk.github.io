@@ -11,7 +11,7 @@ redirect_from:
 I studied computer science at the University of Würzburg, Germany, where I received my diploma degree in 2012. After this I joined the Chair of Communication Networks, lead by Prof. Wolfgang Kellerer, at the Technische Universität München in June 2012. In Mai 2018, I received the degree Doktor-Ingenieur (Dr.-Ing.) from the Technische Universität München with highest distinction (summa cum laude, [Link](https://d-nb.info/1160034877/34)). I was a postdoctoral-researcher and associate lecturer at the Chair of Communication Networks. 
 From March 2019 to January 2022, I was a Senior Research Fellow at the Communication Technologies Group, Faculty of Computer Science, University of Vienna.
 Currently, I am working as a Research Scientist at Siemens AG in the T CED INW-DE group located in Munich.
-My research is focused on architectures and blueprints for industrial networks with focus on verticals from factories, smart infrastructures, and smar mobility. I am researching actively the areas of digital twins, machine learning, and monitoring & observability for networking.
+My research is focused on architectures and blueprints for industrial networks with focus on verticals from factories, smart infrastructures (e.g., power plants), and smart mobility (like trains). I am researching actively the areas of digital twins, machine learning, and monitoring & observability for networking.
 
 ---
 
@@ -67,5 +67,5 @@ Lectures with full responsibility.
 * Survey on Network Virtualization Hypervisors for Software Defined Networking. Blenk, A.; Basta, A.; Reisslein, M.; and Kellerer, W. IEEE Commun. Surveys & Tutorials, 18(1): 655-685. 2016.
 
 ## Selected Community Work
-* Chair, NetSys 2021 PhD Forum [Link](https://netsys2021.org/phd-forum/), Sep. 16, 2021, L\"ubeck, Germany (online)
-* Chair, Machine Learning in Networking (MaLeNe), NetSys Workshop, Sep. 13, 2021, L\"ubeck, Germany (online)
+* Chair, NetSys 2021 PhD Forum [Link](https://netsys2021.org/phd-forum/), Sep. 16, 2021, Luebeck, Germany (online)
+* Chair, Machine Learning in Networking (MaLeNe), NetSys Workshop, Sep. 13, 2021, Luebeck, Germany (online)
