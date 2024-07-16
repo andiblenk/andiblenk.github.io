@@ -17,8 +17,8 @@ Work experience
 * 6/2012 - 3/2018: Research Assistant, Ph.D student, Technical University of Munich
 
 Education
-======
-* 2021 - Mid-term evaluation Habilitation, Technical University of Munich, Munich, Germany
+=======
+ 2021 - Mid-term evaluation Habilitation, Technical University of Munich, Munich, Germany
 * 2018 - Dr.-Ing., Technical University of Munich, Munich, Germany
 * 2012 - Diplom Technische Informatik, Julius-Maximilians Universität, Würzburg, Germany
 * 2005 - Abitur, Deutschhaus Gymnasium, Würzburg

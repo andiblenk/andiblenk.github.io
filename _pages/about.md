@@ -14,7 +14,6 @@ Currently, I am working as a Research Scientist at Siemens AG in the T CED INW-D
 My research is focused on architectures and blueprints for industrial networks with focus on verticals from factories, smart infrastructures (e.g., power plants), and smart mobility (like trains). I am researching actively the areas of digital twins, machine learning, and monitoring & observability for networking.
 
 ---
-
 ## Teaching
 
 Lectures with full responsibility.
@@ -29,7 +28,6 @@ Lectures with full responsibility.
 - [Analysis, Modeling, and Simulation of Communication Networks](https://www.ei.tum.de/lkn/lehre/vorlesungen/analysis-modeling-and-simulation-of-communication-networks/)
 
 ---
-
 ## Certifications and Attended Seminars
 
 * Virtuelle Meetings professionell und interaktiv gestalten (two-day workshop)
