@@ -44,6 +44,7 @@ Lectures with full responsibility.
 
 ## Awards
 
+* Best Student Paper Award at IEEE CNSM for the paper "On the Performance of TCP in Reconfigurable Data Center Networks", Thessaloniki, Greece, 2022
 * Best Student Paper Award at IFIP/IEEE IM for the paper "sfc2cpu: Operating a Service Function Chain Platform with Neural Combinatorial Optimization", Bordeaux, France, Virtual Conference, 2021
 * Best Demo Award at NetSys, Munich, Germany, 2019
 * Nominated for Best Paper Award IFIP Networking, Warsaw, Poland, 2019
